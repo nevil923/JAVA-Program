@@ -1,7 +1,7 @@
 //2.2 Write a java program to get name from user and display on screen.
 
 import java.util.Scanner;
-	public class Program-5
+	public class Program_5
 
 	{
 		public static void main(String args[])
