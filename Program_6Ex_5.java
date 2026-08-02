@@ -1,0 +1,23 @@
+//6.5
+
+import java.util.Scanner;
+
+public class Program_6Ex_5 {
+    public static void main(String args[]) {
+        Scanner scn = new Scanner(System.in);
+
+        System.out.println("Enter the string:");
+        String Userstr = scn.nextLine();
+        System.out.println("Enter the limit:");
+
+        int num = scn.nextInt();
+        scn.close();
+
+        int i = 1;
+        while (i <= num) {
+            System.out.println(Userstr);
+            i++;
+        }
+
+    }
+}
