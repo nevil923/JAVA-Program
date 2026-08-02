@@ -1,7 +1,7 @@
 //4.2 Write a java program to perform different arithmetic operations without using command line args.
 
 import java.util.Scanner;
-public class Program-3
+public class Program_3
 {
    public static void main(String args[])
    {
